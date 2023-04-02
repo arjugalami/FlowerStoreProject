@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'Registration',
+    'VendorRegistration',
 ]
 
 MIDDLEWARE = [
@@ -78,7 +79,7 @@ WSGI_APPLICATION = 'FlowerStoreProject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'flowers',
+        'NAME': 'flowers1',
         'USER':'root',
         'PASSWORD':'',
         'PORT':3306,
@@ -125,14 +126,15 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 
-MEDIA_URL = '/static/'  
 
 STATICFILES_DIRS=[
     os.path.join(BASE_DIR,'static')
 ]
 
-MEDIA_ROOT = os.path.join(BASE_DIR,'static')
-MEDIA_URL = '/images/'
+STATIC_URL = '/static/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+MEDIA_URL = '/media/'
+
 EXPORT_URL = 'exportresources/'
 
 # Default primary key field type

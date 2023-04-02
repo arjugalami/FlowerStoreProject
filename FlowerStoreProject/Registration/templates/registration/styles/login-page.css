@@ -1,0 +1,168 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.login-page-sGt {
+  box-sizing: border-box;
+  padding: 15.3rem 12.8rem 17rem 14rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #fee1e1;
+}
+.login-page-sGt .photo-nue {
+  margin-right: 13rem;
+  width: 52.1rem;
+  height: 70.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-page-sGt .auto-group-vixr-8Ti {
+  box-sizing: border-box;
+  padding: 8.4rem 5.6rem 6.5rem 5.5rem;
+  width: 52.1rem;
+  height: 70.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.login-page-sGt .auto-group-vixr-8Ti .the-partyyy-EWk {
+  margin: 0rem 0rem 3.9rem 0.2rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-page-sGt .auto-group-vixr-8Ti .username-YXS {
+  margin: 0rem 27.7rem 1.3rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-page-sGt .auto-group-vixr-8Ti .username-EfA {
+  margin: 0rem 0.1rem 0.8rem 0rem;
+  width: 40.9rem;
+  height: 5.4rem;
+  background-color: #ececec;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.login-page-sGt .auto-group-vixr-8Ti .password-AHv {
+  margin: 0rem 28.1rem 0.8rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-page-sGt .auto-group-vixr-8Ti .password-gGG {
+  margin: 0rem 0.1rem 2.4rem 0rem;
+  width: 40.9rem;
+  height: 5.4rem;
+  background-color: #ececec;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.login-page-sGt .auto-group-vixr-8Ti .auto-group-fpdz-CVW {
+  margin-bottom: 8.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.login-page-sGt .auto-group-vixr-8Ti .auto-group-fpdz-CVW .remember-me-8e4 {
+  margin: 0rem 1.4rem 0.2rem 0rem;
+  width: 2.2rem;
+  height: 2.2rem;
+  background-color: #e0e0e0;
+  flex-shrink: 0;
+}
+.login-page-sGt .auto-group-vixr-8Ti .auto-group-fpdz-CVW .remember-me-GEU {
+  margin: 0rem 6.7rem 0.1rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-page-sGt .auto-group-vixr-8Ti .auto-group-fpdz-CVW .forget-password-nic {
+  margin-top: 0.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-page-sGt .auto-group-vixr-8Ti .auto-group-hhuu-V7E {
+  margin: 0rem 0.1rem 6.4rem 0rem;
+  width: 40.9rem;
+  height: 5.4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/login-yvp.png');
+  flex-shrink: 0;
+}
+.login-page-sGt .auto-group-vixr-8Ti .dont-have-an-account-register-here-8fz {
+  margin-left: 0.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.login-page-sGt .auto-group-vixr-8Ti .dont-have-an-account-register-here-8fz .dont-have-an-account-register-here-8fz-sub-0 {
+}
+.login-page-sGt .auto-group-vixr-8Ti .dont-have-an-account-register-here-8fz .dont-have-an-account-register-here-8fz-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #ffcdcd;
+  font-family: Inter, 'Source Sans Pro';
+}

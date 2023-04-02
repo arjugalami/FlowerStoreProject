@@ -1,0 +1,253 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.about-us-page-4EC {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.about-us-page-4EC .auto-group-lm7v-oSg {
+  margin-bottom: 55.6rem;
+  box-sizing: border-box;
+  padding: 4rem 8rem 1.713rem 11.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffcdcd;
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-lm7v-oSg .the-partyyy-vGQ {
+  margin: 0rem 17.2rem 2.188rem 0rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-lm7v-oSg .home-abr {
+  margin: 0rem 13.2rem 0.388rem 0rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-lm7v-oSg .shop-hgU {
+  margin: 0rem 13.2rem 0.388rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-lm7v-oSg .about-dKE {
+  margin: 0rem 18.706rem 0.388rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-lm7v-oSg .emojione-shopping-cart-vp8 {
+  margin: 0.713rem 6.306rem 0rem 0rem;
+  width: 6.1875rem;
+  height: 6.375rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-lm7v-oSg .icon-park-right-user-QzC {
+  margin-bottom: 0.2875rem;
+  width: 6.9rem;
+  height: 5.8rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-aehw-ede {
+  box-sizing: border-box;
+  padding: 5.5rem 21.6rem 7.6rem 12.1rem;
+  width: 100%;
+  height: 34rem;
+  display: flex;
+  align-items: center;
+  background-color: #454444;
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-aehw-ede .group-34-kRn {
+  margin: 0rem 21.4rem 9.8rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-aehw-ede .group-34-kRn .the-partyyy-DaG {
+  margin-bottom: 1.3rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fee1e1;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-aehw-ede .group-34-kRn .some-random-stuff-about-flower-shop-and-some-more-info-kKJ {
+  margin-left: 0.3rem;
+  max-width: 33.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #d9d9d9;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-aehw-ede .group-31-456 {
+  margin: 1.9rem 26.2rem 2.5rem 0rem;
+  height: calc(100% - 4.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-aehw-ede .group-31-456 .links-aZE {
+  margin-bottom: 1.9rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-aehw-ede .group-31-456 .home-shop-about-login-7p4 {
+  margin-right: 0.1rem;
+  max-width: 4.9rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #d9d9d9;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-aehw-ede .group-33-1eY {
+  margin-top: 2.2rem;
+  width: 23.4rem;
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-aehw-ede .group-33-1eY .auto-group-wg3i-MiQ {
+  box-sizing: border-box;
+  padding-bottom: 2.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.about-us-page-4EC .auto-group-aehw-ede .group-33-1eY .auto-group-wg3i-MiQ .contact-7Bn {
+  margin-bottom: 2.8rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-aehw-ede .group-33-1eY .auto-group-wg3i-MiQ .group-28-3LL {
+  margin: 0rem 6rem 0rem 0.3rem;
+  width: calc(100% - 6.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-aehw-ede .group-33-1eY .auto-group-wg3i-MiQ .group-28-3LL .location-dot-solid-1-mGL {
+  margin: 0rem 1.3rem 0.005rem 0rem;
+  width: 1.3rem;
+  height: 1.7953rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-aehw-ede .group-33-1eY .auto-group-wg3i-MiQ .group-28-3LL .jawlakhellalitpur-tLx {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #d9d9d9;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-aehw-ede .group-33-1eY .group-30-c24 {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding-left: 0.0564rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.about-us-page-4EC .auto-group-aehw-ede .group-33-1eY .group-30-c24 .at-solid-1-YgQ {
+  margin: 0rem 1.159rem 0.01rem 0rem;
+  width: 1.6843rem;
+  height: 1.678rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-aehw-ede .group-33-1eY .group-30-c24 .thepartyyygmailcom-H8C {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #d9d9d9;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-aehw-ede .group-33-1eY .group-29-1pt {
+  margin: 0rem 9.3rem 0rem 0.1rem;
+  width: calc(100% - 9.4rem);
+  display: flex;
+  align-items: center;
+}
+.about-us-page-4EC .auto-group-aehw-ede .group-33-1eY .group-29-1pt .phone-solid-1-wyS {
+  margin: 0rem 1rem 0rem 0rem;
+  width: 1.7998rem;
+  height: 1.8001rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-page-4EC .auto-group-aehw-ede .group-33-1eY .group-29-1pt .item-12345678901-EBr {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #d9d9d9;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

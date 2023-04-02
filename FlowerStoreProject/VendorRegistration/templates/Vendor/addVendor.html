@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form method ='POST'  action="{% if vendor %} {% url 'vendor.update' vednor.id %} {% else %} {% url 'vendor.store'%} {% endif %}" class="" enctype="multipart/form-data" style="border:1px solid #ccc">
+      {% csrf_token %} 
+        <div class="container">
+         
+          <p>Please fill in this form to create an account.</p>
+          <hr>
+      
+          <label for="vendor_name"><b>Vendor Name</b></label>
+          <input type="text" placeholder="Your name" name="vendor_name" required>
+      
+          <label for="vendor_email"><b>Vendor Email</b></label>
+          <input type="text" placeholder="Your Email" name="vendor_email" required>
+
+          <label for="vendor_location"><b>Vendor location</b></label>
+          <input type="text" placeholder="Your location" name="vendor_location" required>
+
+
+          <label for="vendor_photo">Upload Image</label>
+          <input type="file" class="image-input" id="photo" name="vendor_photo" accept="image/jpeg, image/png, image/jpg">
+          <img id="photo" src="{{vendor.vendor_photo.url}}" />
+          <div id="display-image"></div>
+          
+          
+          <button type="submit" class="btn btn-submit"> {%if driver %} Update {% else %} Submit {% endif %}</button>
+          
+        </div>
+      </form>
+
+</body>
+</html>

@@ -1,0 +1,2234 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.reviews-tfA {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.reviews-tfA .auto-group-knzk-QdW {
+  margin-bottom: 6.9rem;
+  box-sizing: border-box;
+  padding: 4rem 8.863rem 1.713rem 11.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffcdcd;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-knzk-QdW .the-partyyy-Vur {
+  margin: 0rem 17.2rem 2.188rem 0rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-knzk-QdW .home-Bng {
+  margin: 0rem 13.2rem 0.388rem 0rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-knzk-QdW .shop-W4G {
+  margin: 0rem 13.2rem 0.388rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-knzk-QdW .about-deg {
+  margin: 0rem 18.706rem 0.388rem 0rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-knzk-QdW .emojione-shopping-cart-7Zr {
+  margin: 0.713rem 7.169rem 0rem 0rem;
+  width: 6.1875rem;
+  height: 6.375rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-knzk-QdW .icon-park-right-user-2Rv {
+  margin-bottom: 0.2875rem;
+  width: 5.175rem;
+  height: 4.8333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-ddwg-jr8 {
+  margin: 0rem 5.2rem 10.8rem 6.7rem;
+  width: calc(100% - 11.9rem);
+  height: 49.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 {
+  margin-right: 11.3rem;
+  width: 60.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .elena-gun {
+  width: 5.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 4.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .item--A4G {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 6.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-RVz {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 12.7002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-M8k {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 12.7002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-HHJ {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 12.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-nzk {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 26rem;
+  top: 12.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fluent-star-24-regular-XSY {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 12.9741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .reviews-4Ba {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 17.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .rocky-Ni4 {
+  width: 5.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 19.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .item--fBN {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 21.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-8ak {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 27.9002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-F9a {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 27.9002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-aBr {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 27.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-J7r {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 26rem;
+  top: 27.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fluent-star-24-regular-2pY {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 28.1741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .reviews-AQx {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 32.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .shristy-Gyn {
+  width: 6.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 34.8rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .item--azU {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 37.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-kXa {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 43.2002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-tdn {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 43.2002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-2jz {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 43.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fluent-star-24-regular-mha {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 43.4741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fluent-star-24-regular-sEp {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 26.25rem;
+  top: 43.4741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .reviews-bgc {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 2.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .elena-jXv {
+  width: 5.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 4.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .item--o1z {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 6.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-3wv {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 12.7002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-PVz {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 12.7002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-8Cg {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 12.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-sAG {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 26rem;
+  top: 12.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fluent-star-24-regular-b6G {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 12.9741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .reviews-86C {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 17.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .rocky-4Ve {
+  width: 5.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 19.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .item--ait {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 21.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-DG4 {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 27.9002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-Z52 {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 27.9002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-gvL {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 27.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-Rsv {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 26rem;
+  top: 27.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fluent-star-24-regular-ZDS {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 28.1741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .reviews-koi {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 32.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .shristy-66t {
+  width: 6.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 34.8rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .item--1Dr {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 37.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-BXe {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 43.2002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-VYL {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 43.2002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-Dz8 {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 43.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fluent-star-24-regular-YWc {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 43.4741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fluent-star-24-regular-epY {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 26.25rem;
+  top: 43.4741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .reviews-BpU {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 2.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .products-you-may-like-Wrk {
+  width: 60.4rem;
+  height: 49.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #f4f4f4;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .elena-exx {
+  width: 5.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 4.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .item--Ntx {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 6.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-DPn {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 12.7002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-9YL {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 12.7002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-V6Q {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 12.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-puN {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 26rem;
+  top: 12.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fluent-star-24-regular-9Ax {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 12.9741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .reviews-54c {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 17.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .rocky-P5J {
+  width: 5.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 19.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .item--hLt {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 21.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-NC8 {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 27.9002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-HZz {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 27.9002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-pZv {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 27.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-xAL {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 26rem;
+  top: 27.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fluent-star-24-regular-U8g {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 28.1741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .reviews-zsi {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 32.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .shristy-ujn {
+  width: 6.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 34.8rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .item--dQt {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 37.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-hQk {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 43.2002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-nwz {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 43.2002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-voJ {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 43.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fluent-star-24-regular-GcG {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 43.4741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fluent-star-24-regular-acx {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 26.25rem;
+  top: 43.4741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .reviews-iUG {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 2.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .elena-3Fe {
+  width: 5.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 4.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .item--Mn8 {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 6.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-2dN {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 12.7002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-9CC {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 12.7002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-5be {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 12.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-Dxk {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 26rem;
+  top: 12.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fluent-star-24-regular-NKr {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 12.9741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .reviews-TcC {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 17.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .rocky-Bo6 {
+  width: 5.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 19.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .item--5tU {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 21.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-Yn4 {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 27.9002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-f5z {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 27.9002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-aye {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 27.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-8EU {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 26rem;
+  top: 27.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fluent-star-24-regular-fkC {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 28.1741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .reviews-BTe {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 32.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .shristy-7cC {
+  width: 6.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 34.8rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .item--S8g {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 37.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-Huz {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 43.2002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-S2C {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 43.2002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fxemoji-star-9BW {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 43.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fluent-star-24-regular-rLp {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 43.4741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .fluent-star-24-regular-PLk {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 26.25rem;
+  top: 43.4741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-2kjg-368 .reviews-u4C {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 2.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv {
+  width: 60.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .elena-qc4 {
+  width: 5.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 4.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .item--ZHA {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 6.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-2Re {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 12.7002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-wHi {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 12.7002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-UHe {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 12.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-P9i {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 26rem;
+  top: 12.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fluent-star-24-regular-ihn {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 12.9741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .reviews-Eg8 {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 17.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .rocky-ZiQ {
+  width: 5.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 19.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .item--V6G {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 21.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-k2C {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 27.9002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-H28 {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 27.9002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-xe4 {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 27.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-JC8 {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 26rem;
+  top: 27.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fluent-star-24-regular-e16 {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 28.1741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .reviews-AEL {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 32.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .shristy-seY {
+  width: 6.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 34.8rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .item--nWc {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 37.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-faQ {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 43.2002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-1PN {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 43.2002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-j4U {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 43.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fluent-star-24-regular-4sS {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 43.4741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fluent-star-24-regular-o4L {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 26.25rem;
+  top: 43.4741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .reviews-6p8 {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 2.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .elena-dJG {
+  width: 5.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 4.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .item--9Gc {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 6.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-2LQ {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 12.7002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-ZbE {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 12.7002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-eMn {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 12.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-P4U {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 26rem;
+  top: 12.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fluent-star-24-regular-Jx8 {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 12.9741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .reviews-eFJ {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 17.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .rocky-kp8 {
+  width: 5.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 19.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .item--5bW {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 21.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-9rG {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 27.9002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-hMz {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 27.9002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-ofv {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 27.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-8y6 {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 26rem;
+  top: 27.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fluent-star-24-regular-HLC {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 28.1741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .reviews-brg {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 32.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .shristy-Wik {
+  width: 6.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 34.8rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .item--pDe {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 37.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-5vG {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 43.2002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-RjE {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 43.2002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-N8g {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 43.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fluent-star-24-regular-t72 {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 43.4741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fluent-star-24-regular-1xL {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 26.25rem;
+  top: 43.4741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .reviews-ZDA {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 2.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .elena-TpL {
+  width: 5.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 4.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .item--PT6 {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 6.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-4JL {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 12.7002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-a1n {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 12.7002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-uZr {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 12.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-QmW {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 26rem;
+  top: 12.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fluent-star-24-regular-x2L {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 12.9741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .reviews-tAt {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 17.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .rocky-p4Y {
+  width: 5.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 19.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .item--7JY {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 21.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-n9n {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 27.9002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-vFz {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 27.9002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-rfS {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 27.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-Ndn {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 26rem;
+  top: 27.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fluent-star-24-regular-ts2 {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 28.1741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .reviews-pkg {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 32.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .shristy-kuE {
+  width: 6.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 34.8rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .item--eji {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 37.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-hxt {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 43.2002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-Sfa {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 43.2002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-y9i {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 43.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fluent-star-24-regular-5yS {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 43.4741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fluent-star-24-regular-1MJ {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 26.25rem;
+  top: 43.4741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .reviews-YME {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 2.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .products-you-may-like-H3v {
+  width: 60.4rem;
+  height: 49.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #f4f4f4;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .elena-pZe {
+  width: 5.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 4.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .item--WSU {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 6.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-ax8 {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 12.7002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-KPv {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 12.7002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-FoN {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 12.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-BBE {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 26rem;
+  top: 12.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fluent-star-24-regular-K2Y {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 12.9741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .reviews-FB6 {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 17.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .rocky-mfE {
+  width: 5.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 19.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .item--sTN {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 21.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-9fn {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 27.9002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-VUk {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 27.9002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-Qbi {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 27.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-j8C {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 26rem;
+  top: 27.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fluent-star-24-regular-fXe {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 28.1741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .reviews-zpp {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 32.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .shristy-jXW {
+  width: 6.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 34.8rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .item--G1e {
+  width: 43rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 37.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-ieL {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 15.0736rem;
+  top: 43.2002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-fJg {
+  width: 2.648rem;
+  height: 2.7998rem;
+  position: absolute;
+  left: 18.7736rem;
+  top: 43.2002rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fxemoji-star-oQt {
+  width: 3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 43.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fluent-star-24-regular-jpL {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 43.4741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .fluent-star-24-regular-rPA {
+  width: 2.4996rem;
+  height: 2.2342rem;
+  position: absolute;
+  left: 26.25rem;
+  top: 43.4741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reviews-tfA .auto-group-ddwg-jr8 .auto-group-wtjz-1sv .reviews-PP6 {
+  width: 6.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 2.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.reviews-tfA .auto-group-kyoa-5mi {
+  box-sizing: border-box;
+  padding: 5.5rem 21.6rem 7.6rem 12.1rem;
+  width: 100%;
+  height: 34rem;
+  display: flex;
+  align-items: center;
+  background-color: #454444;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-kyoa-5mi .group-38-PnQ {
+  margin: 0rem 21.4rem 9.8rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-kyoa-5mi .group-38-PnQ .the-partyyy-GrC {
+  margin-bottom: 1.3rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fee1e1;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-kyoa-5mi .group-38-PnQ .some-random-stuff-about-flower-shop-and-some-more-info-ZqJ {
+  margin-left: 0.3rem;
+  max-width: 33.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #d9d9d9;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-kyoa-5mi .group-39-GUp {
+  margin: 1.9rem 26.2rem 2.5rem 0rem;
+  height: calc(100% - 4.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-kyoa-5mi .group-39-GUp .links-PpL {
+  margin-bottom: 1.9rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-kyoa-5mi .group-39-GUp .home-shop-about-login-LUg {
+  margin-right: 0.1rem;
+  max-width: 4.9rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #d9d9d9;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-kyoa-5mi .group-40-4Qg {
+  margin-top: 2.2rem;
+  width: 23.4rem;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-kyoa-5mi .group-40-4Qg .auto-group-whjg-Cmn {
+  box-sizing: border-box;
+  padding-bottom: 2.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.reviews-tfA .auto-group-kyoa-5mi .group-40-4Qg .auto-group-whjg-Cmn .contact-XJG {
+  margin-bottom: 2.8rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-kyoa-5mi .group-40-4Qg .auto-group-whjg-Cmn .group-28-4JC {
+  margin: 0rem 6rem 0rem 0.3rem;
+  width: calc(100% - 6.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-kyoa-5mi .group-40-4Qg .auto-group-whjg-Cmn .group-28-4JC .location-dot-solid-1-AME {
+  margin: 0rem 1.3rem 0.005rem 0rem;
+  width: 1.3rem;
+  height: 1.7953rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-kyoa-5mi .group-40-4Qg .auto-group-whjg-Cmn .group-28-4JC .jawlakhellalitpur-t2L {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #d9d9d9;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-kyoa-5mi .group-40-4Qg .group-30-1ck {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding-left: 0.0564rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.reviews-tfA .auto-group-kyoa-5mi .group-40-4Qg .group-30-1ck .at-solid-1-kqE {
+  margin: 0rem 1.159rem 0.01rem 0rem;
+  width: 1.6843rem;
+  height: 1.6781rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-kyoa-5mi .group-40-4Qg .group-30-1ck .thepartyyygmailcom-fSQ {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #d9d9d9;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-kyoa-5mi .group-40-4Qg .group-29-zzU {
+  margin: 0rem 9.3rem 0rem 0.1rem;
+  width: calc(100% - 9.4rem);
+  display: flex;
+  align-items: center;
+}
+.reviews-tfA .auto-group-kyoa-5mi .group-40-4Qg .group-29-zzU .phone-solid-1-jBN {
+  margin: 0rem 1rem 0rem 0rem;
+  width: 1.7998rem;
+  height: 1.8001rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.reviews-tfA .auto-group-kyoa-5mi .group-40-4Qg .group-29-zzU .item-12345678901-f52 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #d9d9d9;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

@@ -1,0 +1,359 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.profile-page-sgU {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.profile-page-sgU .auto-group-gu3a-o4L {
+  box-sizing: border-box;
+  padding: 4rem 8.863rem 1.713rem 11.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffcdcd;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-gu3a-o4L .the-partyyy-UAU {
+  margin: 0rem 17.2rem 2.188rem 0rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-gu3a-o4L .home-MVA {
+  margin: 0rem 13.2rem 0.388rem 0rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-gu3a-o4L .shop-sTW {
+  margin: 0rem 13.2rem 0.388rem 0rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-gu3a-o4L .about-beQ {
+  margin: 0rem 18.706rem 0.388rem 0rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-gu3a-o4L .emojione-shopping-cart-KaQ {
+  margin: 0.713rem 7.169rem 0rem 0rem;
+  width: 6.1875rem;
+  height: 6.375rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-gu3a-o4L .icon-park-right-user-qYk {
+  margin-bottom: 0.2875rem;
+  width: 5.175rem;
+  height: 4.8333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-page-sgU .baby-breath-8nk {
+  margin-bottom: 42.7rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 {
+  box-sizing: border-box;
+  padding-top: 6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-kwkx-cC8 {
+  margin: 0rem 7rem 2.3rem 8.9rem;
+  width: calc(100% - 15.9rem);
+  height: 47.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-kwkx-cC8 .image-1-j1r {
+  margin-right: 6.5rem;
+  width: 39.4rem;
+  height: 47.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-kwkx-cC8 .auto-group-wxg4-EjJ {
+  box-sizing: border-box;
+  padding: 4.2rem 5.1rem 5.5rem 5.1rem;
+  width: 82.2rem;
+  height: 100%;
+  background-color: #f4f4f4;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-kwkx-cC8 .auto-group-wxg4-EjJ .auto-group-ctzi-L1e {
+  margin: 0rem 35.6rem 7.4rem 0rem;
+  width: calc(100% - 35.6rem);
+  display: flex;
+  align-items: center;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-kwkx-cC8 .auto-group-wxg4-EjJ .auto-group-ctzi-L1e .my-info-fZi {
+  margin-right: 16.5rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-kwkx-cC8 .auto-group-wxg4-EjJ .auto-group-ctzi-L1e .my-order-nuE {
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-kwkx-cC8 .auto-group-wxg4-EjJ .name-w1S {
+  margin: 0rem 0rem 4.9rem 0.9rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-kwkx-cC8 .auto-group-wxg4-EjJ .phone-number-ru6 {
+  margin: 0rem 0rem 4.9rem 0.9rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-kwkx-cC8 .auto-group-wxg4-EjJ .email-PPE {
+  margin: 0rem 0rem 4.9rem 0.9rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-kwkx-cC8 .auto-group-wxg4-EjJ .change-password-7q2 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-ufva-cmn {
+  margin-right: 0.5rem;
+  box-sizing: border-box;
+  padding: 5.5rem 21.6rem 7.6rem 12.1rem;
+  width: calc(100% - 0.5rem);
+  height: 34rem;
+  display: flex;
+  align-items: center;
+  background-color: #454444;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-ufva-cmn .group-35-KRJ {
+  margin: 0rem 21.4rem 9.8rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-ufva-cmn .group-35-KRJ .the-partyyy-G5e {
+  margin-bottom: 1.3rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fee1e1;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-ufva-cmn .group-35-KRJ .some-random-stuff-about-flower-shop-and-some-more-info-mo6 {
+  margin-left: 0.3rem;
+  max-width: 33.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #d9d9d9;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-ufva-cmn .group-36-g9N {
+  margin: 1.9rem 26.2rem 2.5rem 0rem;
+  height: calc(100% - 4.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-ufva-cmn .group-36-g9N .links-cHv {
+  margin-bottom: 1.9rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-ufva-cmn .group-36-g9N .home-shop-about-login-wb6 {
+  margin-right: 0.1rem;
+  max-width: 4.9rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #d9d9d9;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-ufva-cmn .group-37-Eq6 {
+  margin-top: 2.2rem;
+  width: 23.4rem;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-ufva-cmn .group-37-Eq6 .auto-group-fftt-atx {
+  box-sizing: border-box;
+  padding-bottom: 2.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-ufva-cmn .group-37-Eq6 .auto-group-fftt-atx .contact-LdE {
+  margin-bottom: 2.8rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-ufva-cmn .group-37-Eq6 .auto-group-fftt-atx .group-28-H2g {
+  margin: 0rem 6rem 0rem 0.3rem;
+  width: calc(100% - 6.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-ufva-cmn .group-37-Eq6 .auto-group-fftt-atx .group-28-H2g .location-dot-solid-1-BNx {
+  margin: 0rem 1.3rem 0.005rem 0rem;
+  width: 1.3rem;
+  height: 1.7953rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-ufva-cmn .group-37-Eq6 .auto-group-fftt-atx .group-28-H2g .jawlakhellalitpur-hcC {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #d9d9d9;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-ufva-cmn .group-37-Eq6 .group-30-ofE {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding-left: 0.0564rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-ufva-cmn .group-37-Eq6 .group-30-ofE .at-solid-1-xHE {
+  margin: 0rem 1.159rem 0.01rem 0rem;
+  width: 1.6843rem;
+  height: 1.6781rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-ufva-cmn .group-37-Eq6 .group-30-ofE .thepartyyygmailcom-FXE {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #d9d9d9;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-ufva-cmn .group-37-Eq6 .group-29-nn4 {
+  margin: 0rem 9.3rem 0rem 0.1rem;
+  width: calc(100% - 9.4rem);
+  display: flex;
+  align-items: center;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-ufva-cmn .group-37-Eq6 .group-29-nn4 .phone-solid-1-vNU {
+  margin: 0rem 1rem 0rem 0rem;
+  width: 1.7998rem;
+  height: 1.8001rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-page-sgU .auto-group-y5d2-Tq2 .auto-group-ufva-cmn .group-37-Eq6 .group-29-nn4 .item-12345678901-dGt {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #d9d9d9;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
