@@ -110,50 +110,50 @@ def vendorDelete(request,id):
 
 
 #product ko lagi banako template chai mapping garxa
-def vendorCreate(request):
+def productCreate(request):
     data={
-        'title':"vendor"
+        'title':"product"
     }
-    return render(request,'Vendor/addVendor.html',data)
+    return render(request,'Vendor/addPrduct.html',data)
 
 
 
 #yesle template bata leko data, database ma gayera store/save garya xa
-def vendorStore(request):
+def productStore(request):
    # print(request.POST)
-    store= service.vendorStore(request)
+    store= service.productStore(request)
     return redirect('vendor.list')
 
 
 
 #databse ko data template ma show garya xa
-def vendorList(request):
+def productList(request):
     # vendor=VendorRegister.objects.all()
-    vendor=VendorRegister.objects.values().filter(user_id=request.user.id)
+    product=VendorRegister.objects.values().filter(user_id=request.user.id)
     data={
-        'vendor':vendor
+        'product':product
     }
-    return render(request,'vendor/list.html',data)
+    return render(request,'Vendor/list.html',data)
 
 
 # yo function le edit form create garya
-def vendorEdit(request,id):
-    vendor=service.getvendorId(id)
+def productEdit(request,id):
+    product=service.getproductId(id)
     data={
         'title':'product',
         # 'driver':service.getVechalId(id),
-        'vendor':vendor    
+        'product':product    
     }
-    return render(request,'Vendor/addVendor.html',data)
+    return render(request,'Vendor/addProduct.html',data)
 
 
 #yo function le template ko data chai database ma update garya
-def vendorUpdate(request,id):
-    service.vendorUpdate(request, id)
+def productUpdate(request,id):
+    service.productUpdate(request, id)
     return redirect('vendor.list')
 
 
 # yo function le template chai database bata delete garxa
-def vendorDelete(request,id):
-    service.vendorDelete(id)
+def productDelete(request,id):
+    service.productDelete(id)
     return redirect('vendor.list')
